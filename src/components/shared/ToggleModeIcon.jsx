@@ -9,7 +9,7 @@ const properties = {
     cx: 12,
     cy: 3,
     opacity: 0,
-    fill: '#f7f7f7',
+    fill: 'black',
   },
   sun: {
     r: 5,
@@ -17,7 +17,7 @@ const properties = {
     cx: 30,
     cy: 0,
     opacity: 1,
-    fill: 'black',
+    fill: '#f7f7f7',
   },
 
   springConfig: { mass: 8, tension: 200, friction: 35 },
